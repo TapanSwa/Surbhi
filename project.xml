@@ -1,0 +1,8 @@
+<project info="SuiteCloud IDE generated file, do not edit." setAttributesOnUpdate="false">
+  <folder name="Surabhi" bundleable="false" exclude="false">
+    <file name="Softype_edERP_CS_CourseScheduling.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    <file name="Softype_edERP_CS_Faculty_Schedule.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    <file name="Softype_edERP_CS_MassApproval_CourseSchdl.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    <file name="Softype_edERP_CS_massapproval_Acadplan.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+  </folder>
+</project>
